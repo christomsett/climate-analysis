@@ -14,3 +14,5 @@ def inches_to_mm(inches)
 #TODO (Developer B): Add function to convert from inches to cm
 
 #jan please do some work
+
+#we should do this properly
